@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+coverage/
+*.log
+*.json
+*.md
+apps/*/node_modules/
+apps/*/dist/
+apps/*/build/
+apps/*/coverage/
